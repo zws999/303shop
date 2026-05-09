@@ -32,7 +32,7 @@ const products = [
     price: "€3.50",
     stock: "Not in stock",
     icon: Crown,
-    image: "https://imagedelivery.net/HL_Fwm__tlvUGLZF2p74xw/e3712fb1-f111-4a5a-679a-5f235a668000/public",
+    image: "https://303.mysellauth.com/storage/images/906256.webp",
   },
   {
     title: "Windows Activation Tool",
@@ -56,7 +56,7 @@ const products = [
     price: "€1.00",
     stock: "In stock",
     icon: Users,
-    image: "https://imagedelivery.net/HL_Fwm__tlvUGLZF2p74xw/88791510-031d-40f6-07a8-2d9b5911f100/public",
+    image: "https://303.mysellauth.com/storage/images/906261.webp",
   },
   {
     title: "TikTok 1000 Likes",
@@ -88,7 +88,7 @@ const products = [
     price: "€0.00",
     stock: "Not in stock",
     icon: Crown,
-    image: "https://imagedelivery.net/HL_Fwm__tlvUGLZF2p74xw/230ed8b8-3191-47f1-3aac-258b53bce800/public",
+    image: "https://303.mysellauth.com/storage/images/906258.webp",
   },
   {
     title: "Discord Nitro Boost 1 Month",
