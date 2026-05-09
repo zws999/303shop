@@ -40,7 +40,7 @@ const products = [
     price: "€2.50",
     stock: "In Stock",
     icon: Users,
-    image: "https://imagedelivery.net/HL_Fwm__tlvUGLZF2p74xw/e3712fb1-f111-4a5a-679a-5f235a668000/public",
+    image: "https://imagedelivery.net/HL_Fwm__tlvUGLZF2p74xw/550de290-eef5-4e46-3599-c27a82bccc00/public",
   },    
   {
     title: "Instagram 1000 Likes",
