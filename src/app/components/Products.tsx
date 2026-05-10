@@ -27,6 +27,14 @@ const products = [
     image: "https://imagedelivery.net/HL_Fwm__tlvUGLZF2p74xw/4f472c6b-29ae-4a8b-3329-61312a7ef500/public",
   },
   {
+    title: "Discord 500 Offline Members",
+    description: "Grow your Discord server with discord members",
+    price: "€6.00",
+    stock: "In stock",
+    icon: Users,
+    image: "https://imagedelivery.net/HL_Fwm__tlvUGLZF2p74xw/fdb30fca-c099-4a6b-24f9-592ce2398500/public",
+  },
+  {
     title: "FileList invitation",
     description: "FileList is a Romanian private torrent tracker specializing in general content. Established in 2007, it has amassed a substantial user base and a vast library of torrents, including movies, TV shows, music, and software",
     price: "€3.50",
