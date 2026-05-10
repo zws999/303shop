@@ -4,7 +4,7 @@ import { Zap, Shield, Award, Clock, TrendingUp, Sparkles } from "lucide-react";
 const features = [
   {
     icon: Zap,
-    title: "Fast",
+    title: "Fast Delivery",
     description: "Receive your products within 1-24 hours of purchase",
   },
   {
